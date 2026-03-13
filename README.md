@@ -29,12 +29,12 @@ setx GEMINI_API_KEY "YOUR_API_KEY"
 ```
 
 ## 🚀 インストール & 使い方
-- 1. インストール
+1. インストール
 ```bash
 go install github.com/Naughty8020/toeicli@latest
 ```
 
-- 2. 実行
+2. 実行
 ```bash
 toeicli
 ```
@@ -65,3 +65,4 @@ Your answer (A/B/C/D): A
 ### ⚠️ 注意
 - Gemini API の無料枠には制限があります。連続リクエストにはご注意ください。
 - APIキーは絶対に公開（GitHubへのコミットなど）しないでください。 🔒
+

@@ -46,7 +46,7 @@ go run main.go
 ```
 
 ## 💬 実行例
-Plaintext
+```bash
 TOEIC Part5 Problem:
 Sentence: "The manager ______ the report yesterday."
 A) reviewed
@@ -56,6 +56,7 @@ D) reviewing
 
 Your answer (A/B/C/D): A
 ✅ Correct! ✨
+```
 
 ## 📂 ファイル構成
 - main.go : CLI 本体 🚀
@@ -65,4 +66,5 @@ Your answer (A/B/C/D): A
 ### ⚠️ 注意
 - Gemini API の無料枠には制限があります。連続リクエストにはご注意ください。
 - APIキーは絶対に公開（GitHubへのコミットなど）しないでください。 🔒
+
 

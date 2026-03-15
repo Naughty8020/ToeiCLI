@@ -1,5 +1,3 @@
-# TOEICLI
-[English](#english) | [日本語](#japanese)
 
 # 📝 TOEICLI Part5 CLI 🚀
 - TOEIC Part5 の短文穴埋め問題を CLI上 で勉強できるツールです。

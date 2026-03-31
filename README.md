@@ -62,7 +62,6 @@ Your answer (A/B/C/D): A
 ## 📂 ファイル構成
 - main.go : CLI 本体 🚀
 - go.mod : Go モジュール定義 📦
-- README.md : この説明書 📝
 
 ### ⚠️ 注意
 - Gemini API の無料枠には制限があります。連続リクエストにはご注意ください。
